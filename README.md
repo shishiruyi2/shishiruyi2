@@ -1,4 +1,4 @@
-![1212](https://github.com/shishiruyi2/shishiruyi2/assets/140885180/89db97d9-f4ed-495f-8f0d-3f1e41980d8e)- 👋 Hi, I’m ruyi
+- 👋 Hi, I’m ruyi
 - 👀 I’m interested in computer
 - 🌱 I’m currently learning programming
 - 💞️ I have wild ideas
